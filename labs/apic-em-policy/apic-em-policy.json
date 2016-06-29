@@ -7,7 +7,7 @@
     {"title": "SDN"},
     {"title": "Networking"},
     {"title": "Intermediate"},
-    {"title": "APIC-EM-POLICY"},
+    {"title": "APIC-EM"},
     {"title": "Sandbox" }
   ],
   "poweredBy": "<a href='https://developer.cisco.com/site/devnet/sandbox/' target=_blank>DevNet Sandbox</a>",
