@@ -1,0 +1,26 @@
+{
+  "labId": "apic-em-basic",
+  "title": "APIC-EM APIs with Python: Part I - The Basics",
+  "slug": "The purpose of this learning lab is to understand the basics of the Northbound REST API for the GA version of APIC-EM.  APIC-EM allows you to develop your own custom controller or add dynamic SDN functionality directly into your own applications. ",
+  "time": "20",
+  "tags": [
+    {"title": "SDN"},
+    {"title": "Networking"},
+    {"title": "APIC-EM"},
+    {"title": "Sandbox"},
+    {"title": "Coding"},
+    {"title": "Python"},
+    {"title": "REST"},
+    {"title": "JSON"}
+  ],
+  "poweredBy": "<a href='https://developer.cisco.com/site/devnet/sandbox/' target=_blank>DevNet Sandbox</a>",
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+  ],
+  "authors": [
+  	{"name": "Yawming Chen", "email": ""}
+  ],
+  "byod": true
+}
